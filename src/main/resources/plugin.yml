@@ -1,0 +1,6 @@
+name: MineAuth
+version: 1.0.0
+main: core.unix.minecraft.MineAuth
+description: Provides whitelist technology
+author: lakeblue
+api-version: '1.20'
