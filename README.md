@@ -2,7 +2,7 @@
 Minecraft whitelist plugin that is controlled from Discord.
 
 ## Installing
-- Get `MineAuth-1.0-SNAPSHOT.jar` file from [Releases](https://github.com/octo-org/octo-repo/releases/latest) or follow [Compiling](##Compiling).
+- Get `MineAuth-1.0-SNAPSHOT.jar` file from [Releases](https://github.com/hakanrw/MineAuth/releases/latest) or follow [Compiling](##Compiling).
 - Copy the plugin jar to `YOUR_SERVER_FOLDER/plugins`
   
 After launching the server once, a `config.yml` file will be generated at `plugins/MineAuth/config.yml`
