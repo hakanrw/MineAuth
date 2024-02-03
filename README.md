@@ -14,7 +14,7 @@ After launching the server once, a `config.yml` file will be generated at `plugi
 - Install OpenJDK 21 on your system
 - Install Gradle 8.5 build tool
 - Clone the repository with `git clone https://github.com/hakanrw/MineAuth.git`
-- Change into directory and run `.\gradlew.bat jar` (NT) or `./gradle jar` (UNIX)
+- Change into directory and run `.\gradlew.bat jar` (NT) or `./gradlew jar` (UNIX)
 - The plugin jar will be generated at `build/libs/MineAuth-1.0-SNAPSHOT.jar`
 
 ## Usage
